@@ -46,6 +46,15 @@ npm run build
 
 This will create an optimized build in the `dist` directory.
 
+## Deployment
+
+To deploy the application to GitHub Pages, run:
+
+```bash
+npm run deploy
+```
+The application will be deployed to: https://vvorehov.github.io/my-react-vite-app/
+
 ## Running Tests
 
 To run the tests, use the following command:
