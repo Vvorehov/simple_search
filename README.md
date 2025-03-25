@@ -53,7 +53,7 @@ To deploy the application to GitHub Pages, run:
 ```bash
 npm run deploy
 ```
-The application will be deployed to: https://vvorehov.github.io/my-react-vite-app/
+The application will be deployed to: https://vvorehov.github.io/simple_search/
 
 ## Running Tests
 

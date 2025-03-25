@@ -12,5 +12,5 @@ export default defineConfig({
   build: {
     outDir: 'dist'
   },
-  base: '/my-react-vite-app/'
+  base: '/simple_search/'
 });
